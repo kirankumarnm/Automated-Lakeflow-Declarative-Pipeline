@@ -37,6 +37,18 @@ This project showcases how to build a fully automated, scalable, and production-
 * Automated pipeline runs with improved reliability
 * Simplified monitoring, validation & operational management
 
+*** DLT Pipeline ***
+
+<img width="1466" height="691" alt="dlt_pipeline" src="https://github.com/user-attachments/assets/81daa339-5cdd-4e14-82d1-cc04cfbb972a" />
+
+*** DLT WOrkflow ***
+
+<img width="1082" height="447" alt="dlt_workflow" src="https://github.com/user-attachments/assets/e1d4c463-c962-44cb-a0c1-1ebecc4e3ab8" />
+
+
+
+
+
 🧠 Summary
 This project illustrates how Databricks LakeFlow (DLT) enables declarative, reliable, and scalable pipeline development—making it easier to transform raw data into analytics-ready datasets and real-time dashboards.
 
