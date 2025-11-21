@@ -1,4 +1,4 @@
-🚀 Databricks LakeFlow (DLT) – Automated Declarative Pipeline Project
+#####🚀 Databricks LakeFlow (DLT) – Automated Declarative Pipeline Project #####
 
 This project showcases how to build a fully automated, scalable, and production-ready data pipeline using Databricks LakeFlow and Delta Live Tables (DLT). The pipeline follows a structured medallion architecture and demonstrates how declarative transformations simplify data engineering workflows.
 
